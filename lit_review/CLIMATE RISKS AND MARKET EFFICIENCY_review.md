@@ -3,8 +3,9 @@
 ## Summary
 
 * industry and company level
-* climate change = drought, since it is easy to quantified and has a direct impact over food industry and relevant companies
+* climate change = drought, since it is easy to quantified and has a direct impact over food industry and relevant companies (justify by the authors)
 * drought information can not influence stocks right now, a 3-year index has a power predictability
+* proposed a cross-country strategy 
 
 ## Abstract
 
