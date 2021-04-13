@@ -1,5 +1,10 @@
 # Review of Climate Risks and Market Efficiency
 
+## Summary
+
+* industry and company level
+* climate change = drought, since it is easy to quantified and has a direct impact over food industry and relevant companies
+* drought information can not influence stocks right now, a 3-year index has a power predictability
 
 ## Abstract
 
