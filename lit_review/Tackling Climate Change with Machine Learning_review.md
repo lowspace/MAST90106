@@ -17,10 +17,11 @@ Finance contains two major subjects, climate investment and climate analytics.
 Challenges in this area:
 
 * long, middle, short term effects posed by climate change all affect the financial performance;
-* little research focus on this area;
+* little research focus on this area:
+  * in-depth modeling of variables linked to climate risk;
+  * designing a statistical climate factor that can be used to project the variation of stock prices given a compound set of events;
+  * identifying direct and indirect climate risk exposure in annual company reports.
 * data is insufficient: not global (dependency on country or area), not organized well.
-
-
 
 Bibtex:
 
