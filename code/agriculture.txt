@@ -1,0 +1,18 @@
+CTA-PB	E. I. du Pont de Nemours and Company	108.00	-1.97	-1.79%	898	1,150	93.723B	N/A	
+CTA-PA	E. I. du Pont de Nemours and Company	90.99	+0.93	+1.04%	1,740	683	78.962B	N/A	
+CTVA	Corteva, Inc.	48.63	+0.55	+1.14%	2.378M	3.283M	35.758B	N/A	
+NTR	Nutrien Ltd.	53.85	+0.11	+0.20%	1.08M	1.98M	30.56B	66.81	
+FMC	FMC Corporation	115.90	+2.44	+2.15%	447,714	942,603	14.875B	27.44	
+SMG	The Scotts Miracle-Gro Company	232.84	+3.37	+1.47%	212,925	418,312	12.88B	27.56	
+MOS	The Mosaic Company	33.95	+0.89	+2.69%	3.217M	5.866M	12.674B	19.40	
+CF	CF Industries Holdings, Inc.	47.32	+0.17	+0.36%	1.524M	2.153M	10.232B	32.19	
+ICL	ICL Group Ltd	6.43	+0.05	+0.78%	143,204	153,459	8.343B	714.44	
+MGPI	MGP Ingredients, Inc.	61.52	+0.02	+0.03%	85,163	135,627	1.383B	25.99	
+AVD	American Vanguard Corporation	20.05	-0.10	-0.50%	93,258	106,922	630.354M	39.31	
+UAN	CVR Partners, LP	47.12	+0.14	+0.30%	47,968	56,675	480.337M	N/A	
+IPI	Intrepid Potash, Inc.	30.13	+1.26	+4.36%	63,981	187,953	411.067M	N/A	
+MBII	Marrone Bio Innovations, Inc.	1.8000	+0.0400	+2.27%	205,183	639,682	320.944M	N/A	
+CGA	China Green Agriculture, Inc.	13.45	-0.39	-2.82%	205,124	186,964	106.304M	N/A	
+SEED	Origin Agritech Limited	14.73	-0.57	-3.73%	67,828	169,112	76.147M	N/A	
+RKDA	Arcadia Biosciences, Inc.	2.6300	+0.0100	+0.38%	449,577	3.142M	56.329M	N/A	
+YTEN	Yield10 Bioscience, Inc.	9.57	+0.42	+4.59%	13,087	137,227	49.771M	N/A
