@@ -11,6 +11,6 @@
 
 # Energy Company List
 
-# Tourism
+# Travel
 
 # Transportation
