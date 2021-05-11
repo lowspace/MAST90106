@@ -1,0 +1,15 @@
+BKNG	Booking Holdings Inc.	2,382.94	-57.50	-2.36%	339,356	405,403	97.826B	1,654.82	
+CCL	Carnival Corporation & plc	26.68	-1.25	-4.48%	33.65M	41.357M	31.764B	N/A	
+EXPE	Expedia Group, Inc.	173.45	-1.37	-0.78%	2.134M	3.028M	25.486B	N/A	
+TCOM	Trip.com Group Limited	38.39	-0.17	-0.44%	3.789M	5.066M	23.075B	N/A	
+RCL	Royal Caribbean Group	83.99	-3.92	-4.46%	4.629M	5.233M	21.381B	N/A	
+NCLH	Norwegian Cruise Line Holdings Ltd.	30.25	-0.94	-3.01%	19.392M	22.903M	11.142B	N/A	
+TRIP	TripAdvisor, Inc.	47.18	-0.15	-0.32%	3.115M	4.331M	6.459B	N/A	
+TNL	Travel + Leisure Co.	63.59	-0.99	-1.53%	544,609	688,263	5.48B	N/A	
+MMYT	MakeMyTrip Limited	26.51	-0.45	-1.67%	604,384	638,875	2.76B	N/A	
+DESP	Despegar.com, Corp.	12.77	-0.59	-4.42%	264,950	527,093	895.168M	N/A	
+LIND	Lindblad Expeditions Holdings, Inc.	16.00	-0.59	-3.56%	199,364	393,053	802.03M	N/A	
+TOUR	Tuniu Corporation	2.6200	-0.1300	-4.73%	631,223	1.732M	323.609M	N/A	
+TZOO	Travelzoo	17.70	+0.88	+5.23%	300,244	71,261	203.014M	N/A	
+YTRA	Yatra Online, Inc.	1.9800	0.0000	0.00%	186,932	433,825	130.46M	N/A	
+MKGI	Monaker Group, Inc.	2.9900	-0.0300	-0.99%	143,069	1.181M	57.237M	N/A	

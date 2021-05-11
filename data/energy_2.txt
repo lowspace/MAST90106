@@ -1,0 +1,257 @@
+XOM	Exxon Mobil Corporation	59.19	+0.37	+0.63%	23.458M	28.383M	250.582B	N/A	
+CVX	Chevron Corporation	106.11	+0.58	+0.55%	8.684M	10.936M	204.586B	N/A	
+RDS-A	Royal Dutch Shell plc	38.65	-0.25	-0.64%	6.641M	5.006M	146.177B	N/A	
+RDS-B	Royal Dutch Shell plc	36.21	-0.61	-1.66%	7.433M	3.134M	146.177B	N/A	
+PTR	PetroChina Company Limited	37.28	+0.78	+2.14%	226,015	206,968	116.368B	7.17	
+TOT	TOTAL SE	45.40	+0.12	+0.27%	2.367M	2.388M	118.071B	N/A	
+BP	BP p.l.c.	25.92	+0.23	+0.90%	13.892M	15.683M	85.852B	N/A	
+ENB	Enbridge Inc.	38.98	+0.21	+0.54%	3.011M	4.479M	78.932B	32.43	
+SNP	China Petroleum & Chemical Corporation	51.70	+0.89	+1.75%	214,073	142,403	77.367B	5.74	
+COP	ConocoPhillips	52.57	-0.17	-0.32%	12.834M	9.877M	71.083B	N/A	
+EQNR	Equinor ASA	20.41	-0.16	-0.78%	2.345M	3.044M	65.986B	N/A	
+PBR-A	Petróleo Brasileiro S.A. - Petrobras	8.39	-0.22	-2.56%	7.64M	10.33M	54.139B	41.95	
+PBR	Petróleo Brasileiro S.A. - Petrobras	8.25	-0.23	-2.71%	22.107M	41.963M	54.052B	41.25	
+EPD	Enterprise Products Partners L.P.	23.16	+0.21	+0.92%	6.912M	6.467M	50.526B	13.52	
+TRP	TC Energy Corporation	49.57	-0.27	-0.54%	2.183M	2.538M	48.55B	12.86	
+EOG	EOG Resources, Inc.	75.01	-0.96	-1.26%	4.649M	4.213M	43.779B	N/A	
+E	Eni S.p.A.	24.34	-0.16	-0.65%	297,214	356,801	43.106B	4.25	
+SLB	Schlumberger Limited	28.39	+0.17	+0.60%	13.136M	13.553M	39.699B	N/A	
+KMI	Kinder Morgan, Inc.	17.17	-0.09	-0.52%	14.236M	15.721M	38.883B	21.38	
+MPC	Marathon Petroleum Corporation	57.30	+0.14	+0.24%	7.082M	5.869M	37.358B	N/A	
+CNQ	Canadian Natural Resources Limited	31.19	-0.18	-0.57%	4.35M	3.491M	37.012B	N/A	
+PSX	Phillips 66	83.03	-0.91	-1.08%	2.868M	2.683M	36.356B	N/A	
+PXD	Pioneer Natural Resources Company	158.45	-0.21	-0.13%	1.788M	2.416M	34.345B	N/A	
+SU	Suncor Energy Inc.	21.89	-0.05	-0.23%	7.365M	8.457M	33.399B	1,563.57	
+VLO	Valero Energy Corporation	78.16	+0.01	+0.01%	3.738M	3.949M	31.949B	N/A	
+CSAN	Cosan S.A.	16.18	-0.57	-3.40%	112,651	693,622	30.122B	N/A	
+WMB	The Williams Companies, Inc.	24.58	-0.19	-0.77%	12.257M	8.284M	29.859B	25.93	
+MPLX	MPLX LP	28.15	+0.84	+3.08%	3.559M	2.386M	29.196B	N/A	
+OXY	Occidental Petroleum Corporation	25.86	-0.28	-1.07%	14.887M	18.968M	24.139B	N/A	
+EC	Ecopetrol S.A.	11.62	-0.11	-0.94%	893,421	1.166M	23.858B	5.43	
+ET	Energy Transfer LP	8.81	+0.18	+2.09%	15.226M	20.342M	23.818B	N/A	
+HES	Hess Corporation	77.16	+0.21	+0.27%	2.087M	2.342M	23.798B	N/A	
+OKE	ONEOK, Inc.	52.58	-0.14	-0.27%	2.206M	2.933M	23.426B	20.32	
+BKR	Baker Hughes Company	21.57	-0.12	-0.55%	10.943M	8.55M	22.467B	N/A	
+HAL	Halliburton Company	20.96	+0.30	+1.45%	9.996M	10.308M	18.649B	N/A	
+PBA	Pembina Pipeline Corporation	31.30	+0.21	+0.68%	776,572	1.395M	17.088B	N/A	
+DVN	Devon Energy Corporation	23.45	-0.17	-0.72%	10.75M	11.697M	15.873B	N/A	
+CVE	Cenovus Energy Inc.	7.66	-0.41	-5.08%	12.854M	8.932M	15.452B	N/A	
+TS	Tenaris S.A.	22.10	+0.01	+0.05%	1.373M	2M	12.836B	98.66	
+TPL	Texas Pacific Land Corporation	1,637.95	+29.22	+1.82%	32,959	72,596	12.704B	72.16	
+FANG	Diamondback Energy, Inc.	79.20	-4.72	-5.62%	4.646M	2.762M	14.334B	N/A	
+MMP	Magellan Midstream Partners, L.P.	48.02	+0.39	+0.82%	1.508M	1.591M	10.722B	13.27	
+SSL	Sasol Limited	16.57	-0.22	-1.31%	436,469	703,868	10.356B	N/A	
+CLR	Continental Resources, Inc.	27.93	-0.37	-1.31%	1.132M	2.299M	10.265B	N/A	
+MRO	Marathon Oil Corporation	11.32	+0.19	+1.71%	20.495M	25.717M	8.923B	N/A	
+WES	Western Midstream Partners, LP	20.03	+0.12	+0.60%	812,953	1.86M	8.274B	16.92	
+TRGP	Targa Resources Corp.	35.48	-0.06	-0.17%	1.854M	1.72M	8.113B	N/A	
+PSXP	Phillips 66 Partners LP	34.21	+0.03	+0.09%	863,503	1.061M	7.812B	15.50	
+APA	APA Corporation	20.18	-0.28	-1.37%	9.098M	8.179M	7.627B	N/A	
+CCJ	Cameco Corporation	18.18	-0.32	-1.73%	4.699M	6.091M	7.231B	N/A	
+COG	Cabot Oil & Gas Corporation	17.19	+0.11	+0.64%	7.602M	6.21M	6.866B	25.28	
+XEC	Cimarex Energy Co.	67.16	-0.06	-0.09%	865,918	1.152M	6.906B	N/A	
+OVV	Ovintiv Inc.	25.58	+0.64	+2.57%	2.427M	2.968M	6.669B	N/A	
+PAA	Plains All American Pipeline, L.P.	9.11	-0.12	-1.30%	4.401M	4.794M	6.578B	N/A	
+NOV	NOV Inc.	15.56	-0.34	-2.14%	5.189M	4.925M	6.078B	N/A	
+HFC	HollyFrontier Corporation	36.22	-0.78	-2.11%	2.321M	2.038M	5.883B	N/A	
+VVV	Valvoline Inc.	31.82	+0.27	+0.86%	1.214M	1.467M	5.762B	17.56	
+SHLX	Shell Midstream Partners, L.P.	14.55	-0.32	-2.15%	1.437M	1.601M	5.722B	12.31	
+EQT	EQT Corporation	19.91	+0.16	+0.81%	2.968M	4.963M	5.552B	N/A	
+SHI	Sinopec Shanghai Petrochemical Company Limited	24.65	-0.10	-0.40%	9,252	26,173	4.984B	5.73	
+DCP	DCP Midstream, LP	23.86	+0.63	+2.71%	358,772	964,251	4.971B	N/A	
+NFG	National Fuel Gas Company	50.46	-0.15	-0.30%	270,968	390,955	4.614B	N/A	
+CHK	Chesapeake Energy Corporation	46.00	-0.36	-0.78%	769,383	857,556	4.504B	N/A	
+CHX	ChampionX Corporation	22.47	+0.36	+1.63%	975,532	1.537M	4.524B	N/A	
+AM	Antero Midstream Corporation	9.04	+0.26	+2.96%	4.775M	5.505M	4.315B	12.38	
+UGP	Ultrapar Participações S.A.	3.9300	-0.0600	-1.50%	1.34M	2.171M	4.357B	26.20	
+PDCE	PDC Energy, Inc.	36.99	-0.16	-0.43%	539,210	1.101M	3.692B	N/A	
+FTI	TechnipFMC plc	7.80	-0.02	-0.26%	5.545M	13.347M	3.515B	10.50	
+SUN	Sunoco LP	36.16	+0.50	+1.40%	620,288	433,741	3.607B	22.46	
+ETRN	Equitrans Midstream Corporation	7.77	-0.17	-2.14%	9.651M	4.141M	3.372B	7.34	
+ENBL	Enable Midstream Partners, LP	7.57	+0.16	+2.16%	728,688	1.502M	3.299B	63.61	
+MTDR	Matador Resources Company	27.02	+0.85	+3.25%	1.502M	1.841M	3.155B	N/A	
+SWN	Southwestern Energy Company	4.5600	-0.0300	-0.65%	10.095M	16.733M	3.086B	N/A	
+CNX	CNX Resources Corporation	13.73	-0.29	-2.07%	2.359M	3.279M	3.024B	N/A	
+HP	Helmerich & Payne, Inc.	26.89	+0.61	+2.32%	1.254M	1.453M	2.901B	N/A	
+MGY	Magnolia Oil & Gas Corporation	11.41	-0.01	-0.09%	1.194M	2.229M	2.78B	N/A	
+VNOM	Viper Energy Partners LP	18.01	-0.36	-1.96%	528,328	615,593	2.81B	N/A	
+RRC	Range Resources Corporation	11.14	+0.30	+2.77%	6.004M	5.12M	2.78B	N/A	
+DEN	Denbury Inc.	55.62	-0.38	-0.68%	550,680	905,256	2.781B	N/A	
+NS-PB	NuStar Energy L.P.	21.00	-0.13	-0.62%	68,401	50,714	2.778B	N/A	
+AR	Antero Resources Corporation	10.31	+0.52	+5.31%	8.203M	8.557M	3.113B	N/A	
+MUR	Murphy Oil Corporation	17.36	-0.07	-0.40%	2.229M	3.244M	2.679B	N/A	
+ENLC	EnLink Midstream, LLC	4.5700	-0.0300	-0.65%	2.136M	2.606M	2.24B	N/A	
+WHD	Cactus, Inc.	32.01	+0.68	+2.17%	561,865	521,391	2.423B	44.46	
+REGI	Renewable Energy Group, Inc.	59.20	+6.65	+12.65%	2.449M	1.462M	2.681B	30.05	
+CEQP	Crestwood Equity Partners LP	30.66	-0.05	-0.16%	489,355	538,271	1.926B	N/A	
+LBRT	Liberty Oilfield Services Inc.	12.55	+0.52	+4.32%	743,777	1.355M	2.261B	N/A	
+CVI	CVR Energy, Inc.	22.07	-0.40	-1.78%	763,640	594,240	2.219B	N/A	
+BSM	Black Stone Minerals, L.P.	10.62	+0.25	+2.41%	423,731	411,095	2.204B	21.76	
+HEP	Holly Energy Partners, L.P.	20.73	-0.39	-1.85%	243,655	323,483	2.186B	12.85	
+CPG	Crescent Point Energy Corp.	4.0900	-0.0100	-0.24%	3.568M	5.306M	2.176B	N/A	
+CLNE	Clean Energy Fuels Corp.	10.80	-0.25	-2.26%	4.15M	7.951M	2.158B	N/A	
+RIG	Transocean Ltd.	3.4200	+0.0800	+2.40%	18.275M	21.505M	2.111B	N/A	
+NS	NuStar Energy L.P.	19.00	-0.52	-2.66%	536,157	617,130	2.081B	N/A	
+INT	World Fuel Services Corporation	32.38	-0.38	-1.16%	257,880	424,140	2.048B	23.57	
+CRC	California Resources Corporation	24.02	0.00	0.00%	178,937	337,095	2.001B	0.70	
+PBF	PBF Energy Inc.	15.71	-0.55	-3.38%	2.83M	4.414M	1.888B	N/A	
+SM	SM Energy Company	16.39	-0.13	-0.79%	2.383M	4.299M	1.931B	N/A	
+DKL	Delek Logistics Partners, LP	42.25	-0.22	-0.52%	79,319	75,526	1.835B	10.11	
+DK	Delek US Holdings, Inc.	24.80	-0.60	-2.36%	548,179	801,441	1.832B	N/A	
+PAGP	Plains GP Holdings, L.P.	9.48	-0.08	-0.84%	2.591M	2.86M	1.856B	N/A	
+EURN	Euronav NV	8.70	-0.07	-0.80%	1.293M	1.513M	1.735B	3.87	
+RTLR	Rattler Midstream LP	11.21	-0.03	-0.27%	123,416	289,681	1.675B	15.48	
+WLL	Whiting Petroleum Corporation	40.75	-0.16	-0.39%	372,875	671,148	1.623B	N/A	
+OAS	Oasis Petroleum Inc.	76.69	-1.10	-1.41%	670,901	247,960	1.563B	N/A	
+FRO	Frontline Ltd.	7.74	-0.22	-2.76%	1.416M	2.157M	1.53B	3.70	
+CPE	Callon Petroleum Company	37.32	-0.55	-1.45%	1.04M	2.726M	1.723B	N/A	
+USAC	USA Compression Partners, LP	15.12	-0.11	-0.72%	135,353	303,826	1.467B	N/A	
+YPF	YPF Sociedad Anónima	3.6800	-0.0800	-2.13%	1.444M	1.434M	1.447B	N/A	
+AROC	Archrock, Inc.	9.40	-0.04	-0.42%	715,725	1.004M	1.448B	N/A	
+PTEN	Patterson-UTI Energy, Inc.	7.56	+0.17	+2.30%	1.79M	2.286M	1.388B	N/A	
+BPMP	BP Midstream Partners LP	13.25	+0.03	+0.23%	271,350	419,683	1.388B	8.49	
+GLOG-PA	GasLog Ltd.	25.21	-0.15	-0.59%	4,963	15,323	1.379B	N/A	
+NBLX	Noble Midstream Partners LP	14.76	+0.05	+0.34%	411,745	880,255	1.334B	9.93	
+CRK	Comstock Resources, Inc.	5.68	+0.02	+0.35%	1.872M	2.732M	1.32B	N/A	
+CLB	Core Laboratories N.V.	29.37	+0.13	+0.44%	410,188	448,231	1.36B	69.43	
+TGP	Teekay LNG Partners L.P.	15.03	-0.08	-0.55%	180,188	193,928	1.307B	20.65	
+GLNG	Golar LNG Limited	11.48	-0.41	-3.45%	1.041M	1.638M	1.262B	N/A	
+ERF	Enerplus Corporation	5.60	+0.03	+0.54%	2.041M	2.265M	1.246B	N/A	
+VET	Vermilion Energy Inc.	7.56	-0.15	-1.95%	2.086M	2.665M	1.204B	4.91	
+OII	Oceaneering International, Inc.	11.77	+0.56	+5.00%	1.263M	1.068M	1.174B	N/A	
+RES	RPC, Inc.	5.34	+0.14	+2.69%	907,495	1.088M	1.152B	N/A	
+GEL	Genesis Energy, L.P.	9.28	-0.09	-0.96%	285,071	931,360	1.138B	N/A	
+KOS	Kosmos Energy Ltd.	2.7900	-0.2100	-7.00%	10.239M	7.325M	1.138B	N/A	
+DRQ	Dril-Quip, Inc.	32.18	+0.16	+0.50%	222,971	230,455	1.14B	N/A	
+DNOW	NOW Inc.	10.18	-0.05	-0.49%	487,857	710,231	1.13B	N/A	
+STNG	Scorpio Tankers Inc.	18.44	-1.06	-5.44%	825,688	1.32M	1.076B	11.04	
+NGL-PB	NGL Energy Partners LP	14.95	+0.24	+1.63%	25,479	67,715	1.069B	N/A	
+NGL-PC	NGL Energy Partners LP	14.90	+0.18	+1.26%	14,034	26,832	1.053B	N/A	
+PUMP	ProPetro Holding Corp.	10.36	-0.36	-3.36%	710,744	1.064M	1.057B	N/A	
+XOG	Extraction Oil & Gas, Inc.	41.55	+0.16	+0.39%	60,598	91,186	1.068B	N/A	
+DHT	DHT Holdings, Inc.	6.03	-0.10	-1.63%	2.274M	3.063M	1.034B	3.75	
+MNRL	Brigham Minerals, Inc.	17.52	-0.02	-0.11%	160,027	462,295	1.001B	N/A	
+PBFX	PBF Logistics LP	15.72	+0.31	+2.01%	578,684	313,536	980.387M	6.58	
+TALO	Talos Energy Inc.	11.62	-0.12	-1.02%	261,208	833,781	949.442M	N/A	
+GPRK	GeoPark Limited	15.53	+0.07	+0.45%	107,442	191,066	947.827M	N/A	
+GLOP-PC	GasLog Partners LP	22.33	-0.15	-0.66%	11,062	20,220	934.05M	42.62	
+GLOP-PB	GasLog Partners LP	21.45	0.00	0.00%	6,749	19,897	919.538M	40.94	
+GLP	Global Partners LP	26.06	+0.31	+1.20%	194,253	143,015	885.159M	9.51	
+VEI	Vine Energy Inc.	13.09	+0.04	+0.31%	149,148	491,596	985.144M	N/A	
+PARR	Par Pacific Holdings, Inc.	16.14	-0.12	-0.74%	327,814	529,980	964.515M	N/A	
+NEX	NexTier Oilfield Solutions Inc.	3.8800	-0.0300	-0.77%	1.718M	1.936M	836.008M	N/A	
+VTOL	Bristow Group Inc.	27.33	+0.26	+0.96%	146,250	107,460	811.988M	N/A	
+MRC	MRC Global Inc.	9.65	+0.25	+2.66%	1.109M	510,826	796.181M	N/A	
+CAPL	CrossAmerica Partners LP	20.37	-0.14	-0.68%	69,992	80,910	771.371M	7.10	
+FI	Frank's International N.V.	3.4000	-0.0500	-1.45%	1.03M	1.42M	774.221M	N/A	
+OMP	Oasis Midstream Partners LP	22.68	+0.58	+2.62%	209,700	209,355	747.592M	6.43	
+BCEI	Bonanza Creek Energy, Inc.	36.44	+2.66	+7.87%	790,158	386,828	1.118B	30.91	
+SLCA	U.S. Silica Holdings, Inc.	10.26	+0.99	+10.68%	3.5M	1.186M	762.743M	N/A	
+BOOM	DMC Global Inc.	50.05	-6.96	-12.21%	623,849	139,178	792.467M	N/A	
+ARCH	Arch Resources, Inc.	48.64	+0.81	+1.69%	303,179	371,628	743.905M	N/A	
+ARLP	Alliance Resource Partners, L.P.	5.72	-0.01	-0.17%	354,802	528,441	727.555M	18.04	
+HLX	Helix Energy Solutions Group, Inc.	4.4900	+0.0500	+1.13%	1.223M	2.177M	676.751M	22.45	
+LPG	Dorian LPG Ltd.	13.44	-0.56	-4.00%	210,282	556,716	557.515M	8.79	
+TGS	Transportadora de Gas del Sur S.A.	4.3900	-0.1000	-2.23%	49,955	92,235	660.923M	19.09	
+TRMD	TORM plc	9.15	+0.09	+0.99%	104,828	63,253	684.558M	7.72	
+KRP	Kimbell Royalty Partners, LP	10.95	-0.17	-1.53%	93,642	141,470	653.699M	N/A	
+FLNG	FLEX LNG Ltd.	11.98	-0.21	-1.72%	45,952	62,270	634.26M	79.87	
+ESTE	Earthstone Energy, Inc.	7.80	+0.46	+6.27%	481,399	377,433	612.678M	N/A	
+NVGS	Navigator Holdings Ltd.	10.78	-0.22	-2.00%	97,597	106,958	602.533M	N/A	
+NBR	Nabors Industries Ltd.	81.07	-5.43	-6.28%	395,972	183,345	600.935M	N/A	
+HMLP	Höegh LNG Partners LP	17.43	-0.21	-1.19%	379,863	226,911	581.482M	12.00	
+GLOG	GasLog Ltd.	5.81	-0.02	-0.34%	672,148	1.785M	553.07M	N/A	
+WTTR	Select Energy Services, Inc.	5.36	+0.08	+1.52%	327,770	471,275	558.115M	N/A	
+SRLP	Sprague Resources LP	23.99	-0.24	-0.99%	38,305	47,623	629.169M	21.61	
+NBR-PA	Nabors Industries Ltd.	11.52	-1.24	-9.72%	517,346	58,706	528.189M	N/A	
+TDW	Tidewater Inc.	12.90	+0.06	+0.47%	151,724	220,370	525.231M	N/A	
+PVAC	Penn Virginia Corporation	13.64	-0.27	-1.94%	413,552	495,578	208.752M	N/A	
+SBR	Sabine Royalty Trust	35.37	+0.62	+1.78%	33,619	40,563	515.67M	15.48	
+DMLP	Dorchester Minerals, L.P.	14.77	0.00	0.00%	53,297	63,490	512.221M	24.21	
+REX	REX American Resources Corporation	85.12	+0.85	+1.01%	15,842	22,890	510.039M	174.78	
+LPI	Laredo Petroleum, Inc.	41.51	+0.46	+1.12%	359,501	565,195	535.467M	N/A	
+BRY	Berry Corporation	6.15	-0.13	-2.15%	225,468	374,251	494.897M	N/A	
+CLMT	Calumet Specialty Products Partners, L.P.	6.25	+0.06	+0.97%	148,235	219,898	491.502M	N/A	
+SOI	Solaris Oilfield Infrastructure, Inc.	10.61	-1.02	-8.77%	464,871	426,681	484.728M	N/A	
+WTI	W&T Offshore, Inc.	3.3600	-0.1000	-2.89%	2.223M	4.097M	478.145M	12.73	
+TNK	Teekay Tankers Ltd.	13.78	-0.26	-1.85%	385,813	523,960	464.911M	5.36	
+SGU	Star Group, L.P.	10.76	+0.08	+0.75%	38,950	57,206	433.71M	8.42	
+DSSI	Diamond S Shipping Inc.	10.31	-0.13	-1.25%	189,001	393,345	417.074M	17.78	
+BTU	Peabody Energy Corporation	4.1500	-0.0500	-1.19%	4.144M	3.547M	408.05M	N/A	
+NOA	North American Construction Group Ltd.	13.81	+0.18	+1.32%	70,181	76,998	387.826M	11.04	
+HESM	Hess Midstream LP	21.98	-0.34	-1.52%	184,662	228,848	548.863M	15.74	
+TTI	TETRA Technologies, Inc.	2.9500	+0.4600	+18.47%	5.807M	2.214M	372.901M	N/A	
+OIS	Oil States International, Inc.	5.95	+0.12	+2.06%	718,440	1.06M	364.623M	N/A	
+CEIX	CONSOL Energy Inc.	10.58	+0.72	+7.30%	564,582	364,726	363.591M	N/A	
+TK	Teekay Corporation	3.4400	-0.0500	-1.43%	364,018	897,758	347.815M	N/A	
+PDS	Precision Drilling Corporation	25.99	+0.31	+1.21%	52,564	105,378	340.269M	N/A	
+TNP-PE	Tsakos Energy Navigation Limited	25.00	-0.08	-0.32%	10,064	19,239	316.1M	N/A	
+TNP-PD	Tsakos Energy Navigation Limited	24.57	-0.28	-1.13%	11,295	8,890	313.29M	N/A	
+TNP-PF	Tsakos Energy Navigation Limited	24.55	-0.04	-0.16%	9,778	31,352	303.301M	N/A	
+NR	Newpark Resources, Inc.	3.1300	+0.1700	+5.74%	668,470	809,265	284.698M	N/A	
+NGL	NGL Energy Partners LP	2.1200	-0.0300	-1.40%	901,636	2.873M	273.836M	N/A	
+BORR	Borr Drilling Limited	0.9940	-0.0260	-2.55%	2.852M	5.184M	278.309M	N/A	
+AMR	Alpha Metallurgical Resources, Inc.	13.30	+0.42	+3.26%	61,790	242,447	244.575M	N/A	
+SJT	San Juan Basin Royalty Trust	5.04	-0.04	-0.79%	165,396	155,546	234.908M	31.70	
+NRP	Natural Resource Partners L.P.	17.99	+0.64	+3.69%	74,772	20,358	222.2M	N/A	
+VIST	Vista Oil & Gas, S.A.B. de C.V.	2.6000	-0.0400	-1.52%	163,327	531,936	228.484M	N/A	
+OSG	Overseas Shipholding Group, Inc.	2.3400	-0.0300	-1.27%	275,024	699,208	203.261M	7.09	
+RNET	RigNet, Inc.	9.60	-0.22	-2.24%	259,567	153,051	201.754M	N/A	
+PBT	Permian Basin Royalty Trust	3.8600	+0.0100	+0.26%	124,640	112,910	179.444M	16.43
+TNP	Tsakos Energy Navigation Limited	9.57	-0.24	-2.45%	70,432	106,426	174.134M	N/A	
+NC	NACCO Industries, Inc.	23.39	-0.66	-2.74%	12,352	26,850	166.939M	11.14	
+TUSK	Mammoth Energy Services, Inc.	3.6000	-0.1200	-3.23%	114,181	216,793	166.581M	N/A	
+GLOP	GasLog Partners LP	3.1500	+0.1000	+3.28%	652,769	748,250	159.435M	6.01	
+SD	SandRidge Energy, Inc.	4.2100	-0.1400	-3.22%	211,651	433,100	153.696M	N/A	
+EGY	VAALCO Energy, Inc.	2.5100	-0.0100	-0.40%	119,240	363,265	145.109M	N/A	
+SLNG	Stabilis Solutions, Inc.	8.40	-0.20	-2.33%	21,639	5,668	141.931M	N/A	
+SBOW	SilverBow Resources, Inc.	10.31	-0.13	-1.25%	30,722	60,815	125.209M	N/A	
+NGS	Natural Gas Services Group, Inc.	9.00	-0.08	-0.88%	80,515	41,501	122.578M	65.69	
+EXTN	Exterran Corporation	3.5700	+0.2500	+7.53%	960,779	697,328	118.295M	N/A	
+FTK	Flotek Industries, Inc.	1.5900	+0.0300	+1.92%	158,603	480,463	115.57M	N/A	
+AMPY	Amplify Energy Corp.	2.8300	+0.0500	+1.80%	487,363	876,900	107.453M	N/A	
+SND	Smart Sand, Inc.	2.4100	-0.0300	-1.23%	160,963	390,381	104.438M	2.56	
+FET	Forum Energy Technologies, Inc.	18.49	-0.51	-2.68%	19,251	67,748	103.541M	N/A	
+GEOS	Geospace Technologies Corporation	7.40	-0.25	-3.27%	11,765	45,850	100.558M	N/A	
+DLNG	Dynagas LNG Partners LP	2.8000	-0.0500	-1.75%	73,578	111,998	103.028M	4.44	
+RNGR	Ranger Energy Services, Inc.	5.90	-0.15	-2.48%	11,402	13,921	90.972M	N/A	
+SMLP	Summit Midstream Partners, LP	23.85	-0.43	-1.77%	44,291	58,525	160.862M	0.34	
+MMLP	Martin Midstream Partners L.P.	2.1700	0.0000	0.00%	88,711	335,968	84.202M	N/A	
+DLNG-PB	Dynagas LNG Partners LP	23.82	-0.07	-0.29%	8,947	11,269	77.866M	37.81	
+KLXE	KLX Energy Services Holdings, Inc.	8.92	+0.17	+1.94%	108,301	176,721	78.807M	N/A	
+CCLP	CSI Compressco LP	1.5500	-0.1300	-7.74%	71,971	159,261	74.355M	N/A	
+BPT	BP Prudhoe Bay Royalty Trust	3.4000	-0.0400	-1.16%	114,286	268,725	72.76M	8.95	
+PRT	PermRock Royalty Trust	5.77	+0.11	+1.94%	25,778	85,413	70.196M	36.75	
+PHX	PHX Minerals Inc.	3.0300	-0.1200	-3.81%	625,815	348,930	90.119M	N/A	
+GIFI	Gulf Island Fabrication, Inc.	4.1700	-0.1100	-2.57%	6,934	48,141	64.706M	N/A	
+NINE	Nine Energy Service, Inc.	2.0100	-0.0200	-0.99%	71,759	187,996	63.426M	N/A	
+MVO	MV Oil Trust	5.45	0.00	0.00%	45,195	97,986	62.675M	11.12	
+VOC	VOC Energy Trust	3.5900	-0.0200	-0.55%	64,492	157,698	61.03M	15.96	
+CRT	Cross Timbers Royalty Trust	9.75	-0.12	-1.22%	21,060	33,908	58.5M	12.52	
+DWSN	Dawson Geophysical Company	2.4000	+0.0400	+1.69%	33,601	166,173	56.347M	N/A	
+NRT	North European Oil Royalty Trust	6.09	+0.19	+3.22%	106,822	35,773	54.225M	21.15	
+NNA	Navios Maritime Acquisition Corporation	3.1400	-0.1100	-3.38%	161,475	198,908	51.997M	1.85	
+PVL	Permianville Royalty Trust	1.5500	+0.0100	+0.65%	166,501	340,065	51.15M	10.20	
+IO	ION Geophysical Corporation	2.2400	+0.0600	+2.75%	698,668	1.848M	64.537M	N/A	
+CELP	Cypress Environmental Partners, L.P.	2.1450	+0.0250	+1.18%	19,922	65,975	26.451M	N/A	
+ICD	Independence Contract Drilling, Inc.	3.7000	+0.3000	+8.82%	332,895	252,196	24.117M	N/A	
+MARPS	Marine Petroleum Trust	4.3800	+0.2400	+5.80%	29,721	49,423	8.76M	23.80	
+MTR	Mesa Royalty Trust	4.5100	+0.3400	+8.15%	35,259	20,021	8.405M	14.84	
+ALIN-PA	Altera Infrastructure L.P. 7.25	21.98	+0.10	+0.47%	12,684	7,993	N/A	N/A	
+TGP-PA	Teekay LNG Partners L.P. PFD UNIT SER A	25.98	+0.13	+0.50%	5,660	11,663	2.069B	N/A	
+NS-PC	NuStar Energy L.P. 9.00% CUM PFD C	24.78	-0.09	-0.36%	24,725	22,102	2.305B	19.94	
+DCP-PB	DCP Midstream, LP 7.875 CUM RED B	24.33	+0.08	+0.31%	6,205	16,333	N/A	248.21	
+EP-PC	El Paso Energy Capital Trust I PFD CV TR SECS	50.25	0.00	0.00%	14,316	5,182	N/A	N/A	
+GLOP-PA	GasLog Partners LP	22.84	-0.01	-0.04%	21,540	26,082	1.048B	43.59	
+ALIN-PE	Altera Infrastructure L.P. 8.87	23.37	+0.08	+0.34%	14,572	11,238	N/A	N/A	
+CEQP-P	Crestwood Equity Partners LP	9.11	-0.02	-0.22%	448,157	316,018	N/A	2.70	
+HMLP-PA	Höegh LNG Partners LP	26.91	-0.08	-0.30%	7,881	18,096	638.903M	13.56	
+NS-PA	NuStar Energy L.P.	23.94	+0.08	+0.35%	10,410	30,921	2.996B	N/A	
+DLNG-PA	Dynagas LNG Partners LP	25.46	+0.06	+0.25%	6,158	5,456	160.976M	265.21	
+TGP-PB	Teekay LNG Partners L.P.	27.14	+0.14	+0.51%	14,097	18,024	1.184B	59.91	
+DCP-PC	DCP Midstream, LP	24.19	-0.07	-0.29%	8,942	13,624	6.441B	55.87	
+ALIN-PB	Altera Infrastructure L.P. 8.50	23.25	0.00	0.00%	31,407	16,926	N/A	N/A	
+GLP-PB	Global Partners LP	26.70	-0.09	-0.34%	13,254	33,831	N/A	N/A	
+GLP-PA	Global Partners LP	27.71	+0.06	+0.22%	895	10,964	653.987M	13.66	
+GMLPP	Golar LNG Partners LP 8.75% CUM PFD A	24.40	+0.09	+0.37%	48,495	35,083	N/A	N/A	
+UROY	Uranium Royalty Corp.	3.6900	-0.0700	-1.86%	306,456	401,350	262.331M	N/A	
