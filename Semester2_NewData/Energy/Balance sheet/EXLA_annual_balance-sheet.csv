@@ -1,0 +1,35 @@
+name,12/31/2012,12/31/2011,12/31/2010,12/31/2009,12/31/2008,12/31/2007
+TotalAssets,"0","0","0","0","24,240","44,547"
+	CurrentAssets,"0","0","0","0","575","44,547"
+		CashCashEquivalentsAndShortTermInvestments,,"0","0","0","575","611"
+			CashAndCashEquivalents,,"0","0","0","575","611"
+				CashFinancial,,"0","0","0","575","611"
+		Inventory,,,,,,"39,936"
+		PrepaidAssets,,"0",,,,
+		OtherCurrentAssets,,,,,"0","4,000"
+	TotalNonCurrentAssets,"0","0","0","0","23,665","0"
+TotalLiabilitiesNetMinorityInterest,"132,304","90,991","69,315","39,832","17,011","0"
+	CurrentLiabilities,"132,304","90,991","69,315","39,832","17,011","0"
+		PayablesAndAccruedExpenses,"132,304","90,991","69,315","0","61","0"
+			Payables,"132,304","90,991","69,315",,,
+				AccountsPayable,"2,050",,,,,
+				DuetoRelatedPartiesCurrent,"130,254",,,,,
+				OtherPayable,"0",,,,,
+		OtherCurrentLiabilities,"0",,"0","39,832","16,950",
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"0","0","0","0","0","0"
+TotalEquityGrossMinorityInterest,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+	StockholdersEquity,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+		CapitalStock,"261,466","49,334","37,000","37,000","37,000","37,000"
+			PreferredStock,"0","0",,"0","0","0"
+			CommonStock,"261,466","49,334","37,000","37,000","37,000","37,000"
+		AdditionalPaidInCapital,"-68,966","143,166","155,500","155,500","155,500","155,500"
+		RetainedEarnings,"-324,804","-283,491","-261,815","-232,332","-185,271","-147,953"
+TotalCapitalization,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+CommonStockEquity,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+NetTangibleAssets,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+WorkingCapital,"-132,304","-90,991","-69,315","-39,832","-16,436","44,547"
+InvestedCapital,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+TangibleBookValue,"-132,304","-90,991","-69,315","-39,832","7,229","44,547"
+ShareIssued,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","261,466,013"
+OrdinarySharesNumber,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","261,466,013"
+PreferredSharesNumber,"1,001","1,001",,"1,001","1,001","1,001"
