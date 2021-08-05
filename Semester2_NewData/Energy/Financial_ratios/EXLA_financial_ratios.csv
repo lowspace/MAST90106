@@ -1,0 +1,73 @@
+,name,12/31/2012,12/31/2011,12/31/2010,12/31/2009,12/31/2008,12/31/2007,ttm
+0,TotalAssets,0,0,0,0,"24,240","44,547",
+1,	CurrentAssets,0,0,0,0,575,"44,547",
+2,		CashCashEquivalentsAndShortTermInvestments,,0,0,0,575,611,
+3,			CashAndCashEquivalents,,0,0,0,575,611,
+4,				CashFinancial,,0,0,0,575,611,
+5,		Inventory,,,,,,"39,936",
+6,		PrepaidAssets,,0,,,,,
+7,		OtherCurrentAssets,,,,,0,"4,000",
+8,	TotalNonCurrentAssets,0,0,0,0,"23,665",0,
+9,TotalLiabilitiesNetMinorityInterest,"132,304","90,991","69,315","39,832","17,011",0,
+10,	CurrentLiabilities,"132,304","90,991","69,315","39,832","17,011",0,
+11,		PayablesAndAccruedExpenses,"132,304","90,991","69,315",0,61,0,
+12,			Payables,"132,304","90,991","69,315",,,,
+13,				AccountsPayable,"2,050",,,,,,
+14,				DuetoRelatedPartiesCurrent,"130,254",,,,,,
+15,				OtherPayable,0,,,,,,
+16,		OtherCurrentLiabilities,0,,0,"39,832","16,950",,
+17,	TotalNonCurrentLiabilitiesNetMinorityInterest,0,0,0,0,0,0,
+18,TotalEquityGrossMinorityInterest,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+19,	StockholdersEquity,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+20,		CapitalStock,"261,466","49,334","37,000","37,000","37,000","37,000",
+21,			PreferredStock,0,0,,0,0,0,
+22,			CommonStock,"261,466","49,334","37,000","37,000","37,000","37,000",
+23,		AdditionalPaidInCapital,"-68,966","143,166","155,500","155,500","155,500","155,500",
+24,		RetainedEarnings,"-324,804","-283,491","-261,815","-232,332","-185,271","-147,953",
+25,TotalCapitalization,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+26,CommonStockEquity,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+27,NetTangibleAssets,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+28,WorkingCapital,"-132,304","-90,991","-69,315","-39,832","-16,436","44,547",
+29,InvestedCapital,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+30,TangibleBookValue,"-132,304","-90,991","-69,315","-39,832","7,229","44,547",
+31,ShareIssued,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","261,466,013",
+32,OrdinarySharesNumber,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","261,466,013",
+33,PreferredSharesNumber,"1,001","1,001",,"1,001","1,001","1,001",
+0,TotalRevenue,0,0,0,0,0,0,0
+1,	OperatingRevenue,0,0,0,0,0,0,0
+2,CostOfRevenue,0,0,0,0,0,0,
+3,GrossProfit,0,0,0,0,0,0,
+4,OperatingExpense,"41,313","21,676","29,483","23,029","37,318","123,465","66,965"
+5,	SellingGeneralAndAdministration,"41,313","21,676","29,483","23,029","37,318","123,465","66,965"
+6,		GeneralAndAdministrativeExpense,"41,313",,"29,483","23,029","37,318","123,465","54,935"
+7,OperatingIncome,"-41,313","-21,676","-29,483","-23,029","-37,318","-123,465","-66,965"
+8,NetNonOperatingInterestIncomeExpense,,,0,0,,,
+9,	InterestExpenseNonOperating,,,0,0,,,
+10,OtherIncomeExpense,0,,0,133,,,0
+11,	SpecialIncomeCharges,,,0,133,,,
+12,PretaxIncome,"-41,313","-21,676","-29,483","-22,896",,,"-66,965"
+13,TaxProvision,0,0,0,0,,,0
+14,NetIncomeCommonStockholders,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+15,	NetIncome,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+16,		NetIncomeIncludingNoncontrollingInterests,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+17,			NetIncomeContinuousOperations,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+18,DilutedNIAvailtoComStockholders,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+19,BasicEPS,-0,0,0,0,-0,-0.001,
+20,DilutedEPS,-0,0,0,0,-0,-0.001,
+21,BasicAverageShares,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","222,993,281",
+22,DilutedAverageShares,"261,466,670","261,466,670","261,466,013","261,466,013","261,466,013","222,993,281",
+23,TotalOperatingIncomeAsReported,"-41,313","-21,676","-29,483","-23,029","-37,318","-123,465","-66,965"
+24,TotalExpenses,"41,313","21,676","29,483","23,029","37,318","123,465","66,965"
+25,NetIncomeFromContinuingAndDiscontinuedOperation,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+26,NormalizedIncome,"-41,313","-21,676","-29,483","-23,029","-37,318","-123,465","-66,965"
+27,InterestExpense,,,0,0,,,
+28,NetInterestIncome,,,0,0,,,
+29,EBIT,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+30,EBITDA,,,,,,,"-66,965"
+31,ReconciledCostOfRevenue,0,0,0,0,0,0,
+32,NetIncomeFromContinuingOperationNetMinorityInterest,"-41,313","-21,676","-29,483","-22,896","-37,318","-123,465","-66,965"
+33,TotalUnusualItemsExcludingGoodwill,,,0,133,,,
+34,TotalUnusualItems,,,0,133,,,
+35,NormalizedEBITDA,"-41,313","-21,676","-29,483","-23,029","-37,318","-123,465","-66,965"
+36,TaxRateForCalcs,0,0,0,0,0.35,0.35,0
+37,TaxEffectOfUnusualItems,0,0,0,0,0,0,0
