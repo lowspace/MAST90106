@@ -5,6 +5,7 @@
 
 ## YTEN
 Operations in Saskatoon ~400km north of Montana (in Canada). 
+
 We have financial data from 2004-now, but 2006 report has data from 2002. Previously Metabolix Inc. and may have been operating as far back as 1992.
 
 ## CGA
