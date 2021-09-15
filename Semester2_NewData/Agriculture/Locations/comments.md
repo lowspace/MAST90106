@@ -23,3 +23,5 @@ Lots of environmental issues in reports relating to environmental lawsuits and l
 
 ## MOS
 Annual reports from 2011-now, however CFP data from 1988-now. Able to find worldwide locations from 2011-now in Sales and Distribution Activities section.
+
+Own Archer Daniels Midlands Co., who do production for YTEN.
