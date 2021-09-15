@@ -25,3 +25,8 @@ Lots of environmental issues in reports relating to environmental lawsuits and l
 Annual reports from 2011-now, however CFP data from 1988-now. Able to find worldwide locations from 2011-now in Sales and Distribution Activities section.
 
 Own Archer Daniels Midlands Co., who do production for YTEN.
+
+## RKDA
+Annual reports from 2015-now, CFP data from 2012-now, but founded 2002. Some location data is unclear (used for R&D trials) but overall data appears well-substantiated. How should we handle land ownership? They claim to lease farmland in various US states.
+
+Majority of revenue from US, however big change in 2020 with 80+% of revenue now from Argentina. 
