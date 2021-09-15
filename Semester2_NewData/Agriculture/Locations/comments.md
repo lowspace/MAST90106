@@ -11,3 +11,12 @@ We have financial data from 2004-now, but 2006 report has data from 2002. Previo
 ## CGA
 No connection to US --- would need climate data from China to include in study. Reliance on coal for fertiliser production may make it susceptible to climate factors.
 
+## CTA-PA
+Discuss with Wei.
+
+## FMC
+Annual reports do not mention locations, however company website and indeed.com allow us to infer current locations which is considered "good enough" for previous 10 years.
+
+Majority of employees US based, however majority of revenue from international markets.
+
+Lots of environmental issues in reports relating to environmental lawsuits and liabilities, including a section on Climate Change.
