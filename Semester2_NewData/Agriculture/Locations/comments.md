@@ -29,4 +29,7 @@ Own Archer Daniels Midlands Co., who do production for YTEN.
 ## RKDA
 Annual reports from 2015-now, CFP data from 2012-now, but founded 2002. Some location data is unclear (used for R&D trials) but overall data appears well-substantiated. How should we handle land ownership? They claim to lease farmland in various US states.
 
-Majority of revenue from US, however big change in 2020 with 80+% of revenue now from Argentina. 
+Majority of revenue from US, however big change in 2020 with 80+% of revenue now from Argentina.
+
+## SEED
+Majority of operations not in US. Had offices in Iowa for period 2016-2018, otherwise nothing.
