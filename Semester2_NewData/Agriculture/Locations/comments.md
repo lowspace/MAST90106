@@ -33,3 +33,9 @@ Majority of revenue from US, however big change in 2020 with 80+% of revenue now
 
 ## SEED
 Majority of operations not in US. Had offices in Iowa for period 2016-2018, otherwise nothing.
+
+## UAN
+Operations in Illinois come online in 2015 as result of merger with Rentech. Reports clearly state which states customers are in, but only operations are included in obtained company location data.
+
+
+
