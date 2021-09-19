@@ -11,8 +11,8 @@ We have financial data from 2004-now, but 2006 report has data from 2002. Previo
 ## CGA
 No connection to US --- would need climate data from China to include in study. Reliance on coal for fertiliser production may make it susceptible to climate factors.
 
-## CTA-PA
-Discuss with Wei.
+## CTA-PA, CTA-PB, and CTVA
+Concerns with company documented [here](https://github.com/lowspace/MAST90106/issues/5). 
 
 ## FMC
 Annual reports do not mention locations, however company website and indeed.com allow us to infer current locations which is considered "good enough" for previous 10 years.
@@ -29,4 +29,13 @@ Own Archer Daniels Midlands Co., who do production for YTEN.
 ## RKDA
 Annual reports from 2015-now, CFP data from 2012-now, but founded 2002. Some location data is unclear (used for R&D trials) but overall data appears well-substantiated. How should we handle land ownership? They claim to lease farmland in various US states.
 
-Majority of revenue from US, however big change in 2020 with 80+% of revenue now from Argentina. 
+Majority of revenue from US, however big change in 2020 with 80+% of revenue now from Argentina.
+
+## SEED
+Majority of operations not in US. Had offices in Iowa for period 2016-2018, otherwise nothing.
+
+## UAN
+Operations in Illinois come online in 2015 as result of merger with Rentech. Reports clearly specify which states customers are in, but only operations are included in obtained company location data.
+
+
+
