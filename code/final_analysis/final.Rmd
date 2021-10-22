@@ -1,0 +1,93 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+# Set up 
+
+```{r}
+library(readr) # read csv
+#install.packages('fastICA')
+library(fastICA)
+#install.packages('e1071')
+library(e1071)
+```
+
+# Read data
+
+```{r}
+# read data
+data <- read_csv("fullData_rawTemp.csv")
+```
+
+# ICA + SVM
+```{r}
+X = c('X1', 'X2', 'X3', 'X4', 'X5', 'X6', 'X7', 'X8', 'X9', 'X10', 'X11', 'X12')
+CFP = c('CurrentRatio', 'NetMargin', 'OperatingMargin', 'ROA1', 'ROE1')
+ICA_name = c('ICA1','ICA2','ICA3','ICA4','ICA5','ICA6','ICA7','ICA8','ICA9','ICA10','ICA11','ICA12')
+PCA_name = c('PCA1','PCA2','PCA3','PCA4','PCA5','PCA6','PCA7','PCA8','PCA9','PCA10','PCA11','PCA12')
+cik_list = unique(data$entity.cik)
+# model = 'svm'
+for (cik in cik_list){
+  print(cik)
+  if (cik == 1756180){
+    next
+  }
+  t = data[which(data$entity.cik == cik), ] # get the data.frame of that cik
+  for (cfp in CFP){
+    t_X = t[, X] #  get the X1 to X12
+    t_Y = t[cfp] # get the cfp data
+    na_index = which(is.na(t_Y)) # get the index of NA value
+    # remove the na value in the t_X and t_Y
+    for (index in rev(na_index)){  
+      t_X = t_X[-index,]
+      t_Y = t_Y[-index,]
+    }
+    
+    t_y = c()
+    for (i in t_Y){
+       t_y = append(t_y, i)
+    }
+
+    t_Y_binary = c()
+    for (i in 2:length(t_y)){
+      if (t_y[i-1] - t_y[i] > 0){
+        t_Y_binary = append(t_Y_binary, 1)
+        }else{
+          t_Y_binary = append(t_Y_binary, 0)
+        }
+    }
+    
+    t_X = t_X[1:length(t_Y_binary), ]
+    
+    ICA_n_comp = 2
+    ICA_result = fastICA(t_X, n.comp = ICA_n_comp) # do ICA
+    #print(t_Y, ICA_result$S)
+    training_data = data.frame(t_Y_binary, ICA_result$S)
+    #print(training_data)
+    names(training_data) = append(cfp, ICA_name[1:ICA_n_comp])
+    formula_x = paste(ICA_name[1:ICA_n_comp], collapse='+') # paste the features as ICA1+ICA2... form
+    formula_y = paste(cfp, '~') # paste the cfp with ~
+    model_formula = as.formula(paste(formula_y, formula_x)) # build the formula
+    print(model_formula)
+    try(print(paste('the support vector number is', dim(svm(model_formula, training_data)$SV)[1])))
+    print(paste('the data point number is', length(t_Y_binary)))
+    }
+  }
+print('done')
+```
+
