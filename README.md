@@ -10,7 +10,7 @@ This project proposes to investigate the relationship between climate events and
 * Industry Partner：
   * LENSELL
   * Contact name: Laura RUSU
-  * Email: chajia@student.unimelb.edu.au
+  * Email: info@lensell.online
 * Team Members:
   * Andrew STRINGER （astringer@student.unimelb.edu.au）
   * Chao JIA （chajia@student.unimelb.edu.au）
